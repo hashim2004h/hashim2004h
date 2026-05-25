@@ -60,5 +60,6 @@ _I enjoy combining programming and data analytics to solve real-world problems a
 
 - [E-Learning Engagement Detection System](https://github.com/hashim2004-HS/E-Learning_Engagement_Detection_System)
 - [Healthcare Analytics and Patient Insights](https://github.com/hashim2004h/Healthcare_Analytics_and_Patient_Insights)
+- [MODELFLOW — Prompt-Based AI Model Generator](https://github.com/hashim2004h/MODELFLOW---Prompt_based_AI-Model_Generator)
 
 ---
