@@ -1,7 +1,7 @@
 ### 
 
-AI & Data Science Student sharing my journey in tech  
-Graduate in **Artificial Intelligence and Data Science** at [Viswajyothi College of Engineering](https://vjcet.org/)  
+AI & Data Science Graduate sharing my journey in tech  
+B.Tech in **Artificial Intelligence and Data Science** from [Viswajyothi College of Engineering](https://vjcet.org/)  
 Building solutions through data and code
 
 Currently exploring **Software, Data, and Intelligent Systems**  
