@@ -13,7 +13,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hashim2004)
 
 Enhancing skills in **Data Analytics & Software Development**  
 Applying **Python for automation and intelligent solutions**  
-Working with **SQL and Cloud technologies to build scalable, data-driven solutions**
+Working with **SQL and Cloud technologies to build scalable, data-driven solutions**  
 Fueled by **coffee and curiosity**
 
 ---
