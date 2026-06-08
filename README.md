@@ -1,19 +1,19 @@
 ### 
 
 AI & Data Science Student sharing my journey in tech  
-Learning **AI and Data Science** at [Viswajyothi College of Engineering](https://vjcet.org/)  
+Graduate in **Artificial Intelligence and Data Science** at [Viswajyothi College of Engineering](https://vjcet.org/)  
 Building solutions through data and code
 
-Currently exploring **Data Analytics, Business Intelligence & Decision Support Systems**  
+Currently exploring **Software, Data, and Intelligent Systems**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hashim2004)
 
 ---
 
 ### Currently Working On / Learning  
 
-Enhancing skills in **Data Analytics & Business Reporting**  
-Applying **Python for data processing and automation**  
-Working with **SQL & Excel for structured data analysis**  
+Enhancing skills in **Data Analytics & Software Development**  
+Applying **Python for automation and intelligent solutions**  
+Working with **SQL and Cloud technologies to build scalable, data-driven solutions**
 Fueled by **coffee and curiosity**
 
 ---
